@@ -9,3 +9,5 @@ steps:
 - do git init
 - check with git status
 - create file README.md with touch command 
+
+![Shabnam Samima](Shabnam_GITAM_ID.jpg)
